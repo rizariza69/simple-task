@@ -4,7 +4,7 @@ import style from "./style";
 
 const Header = () => (
   <header style={{ margin: "1rem 0 0 0" }}>
-    <h1 style={{ fontWeight: 700 }}>Todo</h1>
+    <h1 style={{ fontWeight: 700 }}>Task</h1>
   </header>
 );
 
